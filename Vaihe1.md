@@ -1,22 +1,23 @@
 # Projekti Vaihe 1 - Määrittely ja suunnittelu
 
-Add something
+Teen nettisivun, jossa voi tehdä muistiinpanoja
 
 ## 1. Käyttäjäpersoonat
 
-Add something
+Käyttäjäpersoonana on kuka vaan, jolla on tarvetta muistiinpanoille.
 
 ## 2. Käyttötapaukset ja käyttötilanteet
 
-Add something
+Käyttäjä voi tehdä muistiinpanoja sivulla ja tallentaa niitä ja katsoa aiemmin tehtyjä muistiinpanoja, sekä poistaa niitä.
 
 ## 3. UI Prototyypit
 
-Add something
+(Tuleva Figma Prototyyppi)
 
 ## 4. Tietoarkkitehtuuri ja tekninen suunnittelu
 
-Add something
+Projektissani ei varmaan tule olemaan kovin monimutkaista tietoarkkitehtuuria. Tietoja (muistiinpanoja) tallennetaan listoihin tai taulukoihin.
 
 ## 5. Projektinhallinta ja käyttäjätestaus
-Add something
+
+Aloitin tekemään tätä aika myöhässä, niin yritän tästä eteenpäin tehdä nopeammin tätä projektia, siksi valitsin myös helpohkon tavoitteen eli muistiinpanonteko sivu.
