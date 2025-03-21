@@ -6,4 +6,4 @@
 
 | Päivämäärä | Tunnit käytetty | Aihe | Tulos |
 | :---  |     :---:      |     :---:      |     :---:      |
-| 21.3.2025 | 1 | Vaihe 1:en suunnittelu  | Etsin netistä tietoa vaiheen termeistä jä täytin vaihe 1 tiedostoa |
+| 21.3.2025 | 1,5 | Vaihe 1:en suunnittelu  | Etsin netistä tietoa vaiheen termeistä jä täytin vaihe 1 tiedostoa |
