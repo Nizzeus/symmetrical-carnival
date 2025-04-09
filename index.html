@@ -11,12 +11,15 @@
 
     </header>
     <main>
-        <form id="surveyForm">
-            <textarea id="otsikko" placeholder="Otsikko" required></textarea>
-        </form>
-        <form id="surveyForm">
-            <textarea id="teksti" placeholder="Kirjoita tähän..." required></textarea>
-        </form>
+        <section id="muistiinpano" class="section">
+            <form id="form">
+                <textarea id="otsikko" name="otsikko" placeholder="Otsikko" required></textarea>
+            </form>
+            <form method="post" id="form" action="/notes">
+                <textarea id="teksti" name="teksti" placeholder="Kirjoita tähän..." required></textarea>
+                <button type="submit">Tallenna</button>
+            </form>
+        </section>
     </main>
 </body>
 </html>

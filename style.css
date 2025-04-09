@@ -10,10 +10,23 @@ main
     padding: 20px;
 }
 
-.section
+textarea 
 {
-    background: #1D1D21;
-    color: #3C3B45;
-    border-radius: 6px;
-    border-style: solid;
+    background-color: #1D1D21;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    resize: none;
+}
+
+#otsikko
+{
+    width: 200px;
+    height: 16px;
+}
+
+#teksti
+{
+    width: 500px;
+    height: 200px;
 }
