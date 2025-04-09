@@ -1,18 +1,16 @@
 # Projekti vaihe 2 - Perusrunko ja päätoiminnallisuudet
 
--
-
 ## 1. Ympäristö
 
--
+Ympäristö tulee olemaan paikallinen virtuaalikone VirtualBoxilla.
 
 ## 2. Backend
 
--
+Nginx(?)
 
 ## 3. Frontend
 
--
+JavaScript(?)
 
 ## 4. Tietokanta
 
