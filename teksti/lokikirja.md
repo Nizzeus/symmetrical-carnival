@@ -11,3 +11,11 @@
 | Päivämäärä | Tunnit käytetty | Aihe | Tulos |
 | :---  |     :---:      |     :---:      |     :---:      |
 | 22.3.2025 | 2,5 | Prototyypin teko  | Tein Figmalla prototyypin muistiinpano sivusta |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 2.4.2025 | 1 | Arkkitehtuuri | Tein index, script ja style tiedostot ja täytin niitä hieman |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 9.4.2025 | 2 | Ympäristö ja koodaus | Aloitin virtuaalikoneen tekemisen ja parantelin index ja styles tiedostoja |
