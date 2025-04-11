@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,19 +7,29 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-
-    </header>
+    <h1>NoteTaker</h1>
+    <div class="container">
+        <div class="left">
+            <section id="muistiinpano" class="section">
+                <form id="form">
+                    <textarea id="otsikko" name="otsikko" placeholder="Otsikko"></textarea>
+                </form>
+                <form id="form">
+                    <textarea id="teksti" name="teksti" placeholder="Kirjoita tähän..."></textarea>
+                    <br></br>
+                    <button type="submit">Tallenna</button>
+                </form>
+            </section>
+        </div>
+        <div class="right">
+            <h2>Tähän tulee tallennukset</h2>
+            <div id="tallennukset"></div>
+        </div>
+    </div>
     <main>
-        <section id="muistiinpano" class="section">
-            <form id="form">
-                <textarea id="otsikko" name="otsikko" placeholder="Otsikko" required></textarea>
-            </form>
-            <form method="post" id="form" action="/notes">
-                <textarea id="teksti" name="teksti" placeholder="Kirjoita tähän..." required></textarea>
-                <button type="submit">Tallenna</button>
-            </form>
-        </section>
+        
     </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
