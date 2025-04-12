@@ -19,3 +19,11 @@
 | Päivämäärä | Tunnit käytetty | Aihe | Tulos |
 | :---  |     :---:      |     :---:      |     :---:      |
 | 9.4.2025 | 2 | Ympäristö ja koodaus | Aloitin virtuaalikoneen tekemisen ja parantelin index ja styles tiedostoja |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 11.4.2025 | 1,5 | Koodaus | Yritin ensin itse kirjoittaa javascriptiä,  mutta en oikein osanut niin etsin netistä apua sen tekemiseen. Etsin apua eri koodaus-sivuilta ja katsoin Youtube-videoita |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 12.4.2025 | 3 | Koodaus | En oikein saanut tehtyä sellaista sivua mitä halusin, niin päätin tehdä simppelimmän version, lopuksi täytin vaihe 2 tiedostoa |
