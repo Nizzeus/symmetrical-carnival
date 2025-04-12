@@ -1,45 +1,70 @@
-body
-{
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: normal;
+body {
+    margin: 0;
     background-color: #393841;
+    font-family: 'Courier New', Courier, monospace;
 }
 
-main
-{
-    padding: 20px;
+header {
+    background-color: #242428;
+    padding: 40px;
 }
 
-.container
-{
-    display: flex;
-    gap: 100px;
+h1 {
+    color: #B4B1CF;
+    text-align: center;
+    padding: 10px;
+    font-size: 35px;
 }
 
-#tallennukset div
-{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.info-text {
+    text-align: center;
+    color: #B4B1CF;
+    font-size: 18px;
 }
 
-textarea 
-{
-    background-color: #1D1D21;
-    color: white;
-    border: none;
-    border-radius: 4px;
+.app {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 40px;
+    justify-content: center;
+    padding: 50px;
+}
+
+.button {
+    height: 300px;
+    border-color: rgba(10, 10, 10, 0.3);
+    background: rgba(10, 10, 10, 0.2);
+    border-radius: 15px;
+    font-size: 70px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.button:hover {
+    background: rgba(10, 10, 10, 0.4);
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.notes {
+    padding: 17px;
+    border-radius: 15px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    font-size: 18px;
+    height: 300px;
+    color: #B4B1CF;
+    background: rgba(10, 10, 10, 0.55);
+    box-sizing: border-box;
     resize: none;
+    border: none;
+    outline: none;
 }
 
-#otsikko
-{
-    width: 200px;
-    height: 16px;
+.notes::placeholder {
+    color: #77758a;
+    opacity: 30%;
 }
 
-#teksti
-{
-    width: 500px;
-    height: 200px;
+.notes:hover, .notes:focus {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
