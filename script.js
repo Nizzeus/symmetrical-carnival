@@ -1,10 +1,15 @@
+//  haetaan button ja app
+
 const button = document.getElementById('button');
 const app = document.getElementById('app');
 
+// tallennetaan muistiinpanot localstoragella
 function saveNote(note) {
   localStorage.setItem("note-app", JSON.stringify(note));
 }
 
+
+// haetaan muistiinpanoja JSONilla
 function getNotes(){
   return JSON.parse(localStorage.getItem("note-app") || "[]");
 }
@@ -17,7 +22,7 @@ getNotes().forEach((note) => {
 function addNote() {
   const notes = getNotes();
   const Note = {
-    id: Math.floor(Math.random() * 100000),
+    id: Math.floor(Math.random() * 100000),  // annetaan muistiinpanolle satunnainen id 0-100000 väliltä ja tyhjä content
     content: "",
   }
   const noteElement = createNoteEl(Note.id, Note.content);
@@ -32,6 +37,7 @@ function createNoteEl(id, content) {
   noteText.placeholder = "Kirjoita tähän...";
   noteText.value = content;
 
+  //  lisätään mahdollisuus poistaa muistiinpanoja tuplaklikkaamalla
   noteText.addEventListener("dblclick", () => {
     const warning = confirm("Haluatko varmasti poistaa muistiinpanon?");
     if (warning) {
