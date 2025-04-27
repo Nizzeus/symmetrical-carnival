@@ -94,9 +94,9 @@ Olen kuitenkin ylpeä, että sain suurimman osan tavoitteista toteutettua.
 
 | Päivämäärä | Tunnit käytetty | Aihe | Tulos |
 | :---  |     :---:      |     :---:      |     :---:      |
-| 27.4.2025 | 1,5 | Vaihe 4 | Unohdin eilen Committaa esitys tiedoston, niin piti tänään tehdä se uudestaan |
+| 27.4.2025 | 2 | Vaihe 4 | Unohdin eilen Committaa esitys tiedoston, niin piti tänään tehdä se uudestaan, tein myös esitys videon |
 
-| **Yhteensä**  | **16h** |                                 |
+| **Yhteensä**  | **16,5h** |                                 |
 
 ---
 
