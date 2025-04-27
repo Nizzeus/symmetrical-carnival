@@ -2,7 +2,7 @@
 
 ## 1. Ympäristö
 
-Ympäristö tulee olemaan paikallinen virtuaalikone VirtualBoxilla. Käytin virtuaalikoneessa Nginxiä
+Ympäristö tulee olemaan paikallinen virtuaalikone VirtualBoxilla. Käytin virtuaalikoneessa Nginxiä. Seurasin kurssitehtävää 2.
 
 ## 2. Backend
 
@@ -26,11 +26,11 @@ En oikein tiedä mitä minun pitäisi tähän laittaa.
 
 ## 7. Koodin laatu ja dokumentointi
 
--
+Omasta mielestä koodi näyttää ihan hyvälle. Olen lisännyt vähän kommentteja
 
 ## 8. Testaus ja virheenkäsittely
 
-Ei oikein tullut mitään isoja virheitä vastaan muuta kuin kirjoitusvirheitä.
+Ei oikein tullut mitään isoja virheitä vastaan muuta kuin kirjoitusvirheitä. En ole testannut koodia mitenkään erikoisemmin
 
 ## 9. Käyttöliittymä ja vuorovaikutus
 
