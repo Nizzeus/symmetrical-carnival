@@ -102,4 +102,4 @@ Olen kuitenkin ylpeä, että sain suurimman osan tavoitteista toteutettua.
 
 ## 🪢 Presentation link
 
--
+En saanut sitä tähän linkitettyä niin laitoin sen erikseen tähän kansioon.
