@@ -31,3 +31,11 @@
 | Päivämäärä | Tunnit käytetty | Aihe | Tulos |
 | :---  |     :---:      |     :---:      |     :---:      |
 | 13.4.2025 | 0,5 | Viimeistely | Lisäsin koodiin vähän kommentteja ja hieman lisäyksiä vaihe 2 tiedostoon |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 26.4.2025 | 1,5 | Vaihe 4 | Tein projekti esitys tiedoston ja täytin sitä |
+
+| Päivämäärä | Tunnit käytetty | Aihe | Tulos |
+| :---  |     :---:      |     :---:      |     :---:      |
+| 27.4.2025 | 1,5 | Vaihe 4 | Unohdin eilen Committaa esitys tiedoston, niin piti tänään tehdä se uudestaan |
